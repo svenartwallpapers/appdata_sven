@@ -1,0 +1,11 @@
+{
+  "ver": "1.0.0",
+  "ads": {
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "inters_id": "ca-app-pub-3940256099942544/1033173712",
+    "banner_enable": false,
+    "inters_enable": false,
+    "inters_limit": "15"
+  },
+  "photos": []
+}

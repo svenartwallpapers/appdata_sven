@@ -1,0 +1,88 @@
+{
+  "ver": "1.0.0",
+  "ads": {
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "inters_id": "ca-app-pub-3940256099942544/1033173712",
+    "banner_enable": false,
+    "inters_enable": false,
+    "inters_limit": "15"
+  },
+  "photos": [
+    {
+      "title": "1_1",
+      "url": "https://farm2.staticflickr.com/1962/30173909517_fa3637da73_o.jpg"
+    },
+    {
+      "title": "1_5b33c73d2577c3a712ec2f94ef2536e9_35740651102_o",
+      "url": "https://farm2.staticflickr.com/1948/44200606075_58a2b3c5f6_o.jpg"
+    },
+    {
+      "title": "1_twavcax_35101288473_o",
+      "url": "https://farm2.staticflickr.com/1960/44200605835_9bfed2979e_o.jpg"
+    },
+    {
+      "title": "2abb6521a67c74a18ac2c5ad63fd5b2e_29694052867_o",
+      "url": "https://farm2.staticflickr.com/1962/44200605715_d77e654e40_o.jpg"
+    },
+    {
+      "title": "7c492a95a9fcb002c125585d624b3ebc_29694052677_o",
+      "url": "https://farm2.staticflickr.com/1928/44200605495_7998a71e66_o.jpg"
+    },
+    {
+      "title": "9c77400b4e0881ca3ecb2980075c5540_44964889881_o",
+      "url": "https://farm2.staticflickr.com/1903/44200605415_1386d986b5_o.jpg"
+    },
+    {
+      "title": "9d8f06adb0f7dcf9292f82d8082b8508_31091942838_o",
+      "url": "https://farm2.staticflickr.com/1974/44200605235_7d9aca3e4b_o.jpg"
+    },
+    {
+      "title": "9ff98853b21e0ed1763a90b22d09ac42_35101288233_o",
+      "url": "https://farm2.staticflickr.com/1915/30173908907_db4ed6f630_o.jpg"
+    },
+    {
+      "title": "34cff3db17dad2299e4271a25bf33665_43913745014_o",
+      "url": "https://farm2.staticflickr.com/1976/45062595722_ac2afc3564_o.jpg"
+    },
+    {
+      "title": "039fe79017ff691f30654ece9fbd568c_43152277150_o",
+      "url": "https://farm2.staticflickr.com/1957/30173908577_9ca437dcb3_o.jpg"
+    },
+    {
+      "title": "75f5c856921b075b7c2c39834332500a_35101287993_o",
+      "url": "https://farm2.staticflickr.com/1916/45062594482_c68c58e9b6_o.jpg"
+    },
+    {
+      "title": "81b4a92f3275b9cd05ff9726785b6b69_43913744674_o",
+      "url": "https://farm2.staticflickr.com/1932/45062594412_c2c376a877_o.jpg"
+    },
+    {
+      "title": "181ba6189fed334b0f0bdc5c77838c82_43913744304_o",
+      "url": "https://farm2.staticflickr.com/1920/45062594312_cb0062e532_o.jpg"
+    },
+    {
+      "title": "0951b82b9c59602ed5399cc9910cea9e_29694051857_o",
+      "url": "https://farm2.staticflickr.com/1964/45062594212_df71e54e6b_o.jpg"
+    },
+    {
+      "title": "1626a6102353707d93aa58efc545ac0a_43913744124_o",
+      "url": "https://farm2.staticflickr.com/1972/45062594072_dd5480cba3_o.jpg"
+    },
+    {
+      "title": "02349ff6cc96315f1c046928f3382344_43913743984_o",
+      "url": "https://farm2.staticflickr.com/1968/45062593932_a7833f6f6c_o.jpg"
+    },
+    {
+      "title": "7751fd6d9a0d5749e17c8763eaf7ea8f_29694051377_o",
+      "url": "https://farm2.staticflickr.com/1957/45062593762_d005b2ecc2_o.jpg"
+    },
+    {
+      "title": "66229_35101287943_o",
+      "url": "https://farm2.staticflickr.com/1965/45062593582_fbb521be76_o.jpg"
+    },
+    {
+      "title": "226424_35934184095_o",
+      "url": "https://farm2.staticflickr.com/1935/45062593202_81343b9632_o.jpg"
+    }
+  ]
+}
